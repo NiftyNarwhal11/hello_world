@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/Users/felixhoppe/Desktop/CPP/hello_world",
+            "binaryPath": "/Users/felixhoppe/Desktop/CPP/hello_world/hello_world",
+            "binaryArgs": []
+        }
+    ]
+}
